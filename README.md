@@ -16,9 +16,12 @@ Download all the `.zip` files in the relevant directory. `.zip` files with a
 numbered extension belong together and can only be unzipped if all files have
 been downloaded.
 
-![image](.img/download-1.png)
-![image](.img/download-2.png)
-![image](.img/download-3.png)
+At the moment downloading an entire folder is sadly not supported from the
+GitHub Gui and you have to download each file individually.
+
+![image](./img/download-1.png)
+![image](./img/download-2.png)
+![image](./img/download-3.png)
 
 ### Unzip the Files
 
@@ -31,8 +34,8 @@ other communication channels.
 When the password is correct, the contents should be unzipped to your local
 disk.
 
-![image](.img/unzip-1.png)
-![image](.img/unzip-2.png)
+![image](./img/unzip-1.png)
+![image](./img/unzip-2.png)
 
 [7-zip-download]: <https://7-zip.de/download.html>
 
