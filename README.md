@@ -16,6 +16,10 @@ Download all the `.zip` files in the relevant directory. `.zip` files with a
 numbered extension belong together and can only be unzipped if all files have
 been downloaded.
 
+![image](.img/download-1.png)
+![image](.img/download-2.png)
+![image](.img/download-3.png)
+
 ### Unzip the Files
 
 If not installed already, download and install [7-zip][7-zip-download].
@@ -26,6 +30,9 @@ You will be prompted to enter the password, which is used to AES-256 encrypt the
 other communication channels.
 When the password is correct, the contents should be unzipped to your local
 disk.
+
+![image](.img/unzip-1.png)
+![image](.img/unzip-2.png)
 
 [7-zip-download]: <https://7-zip.de/download.html>
 
